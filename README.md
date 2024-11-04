@@ -206,7 +206,7 @@
                                                         <tbody><tr>
                                                             <td class="pad" style="width:100%;padding-right:0px;padding-left:0px;">
                                                                 <div class="alignment" align="center" style="line-height:10px">
-                                                                    <div style="max-width: 147.5px;"><img src="assets/Logo.png" style="display: block; height: auto; border: 0; width: 100%;" width="147.5" height="auto"></div>
+                                                                    <div style="max-width: 147.5px;"><img src="Logo.png" style="display: block; height: auto; border: 0; width: 100%;" width="147.5" height="auto"></div>
                                                                 </div>
                                                             </td>
                                                         </tr>
@@ -445,7 +445,7 @@
                                                                     <!-- <div class="alignment" align="center" style="line-height:10px"> -->
                                                                     <div class="fullWidth" style="max-width: 219px;">
                                                                         <a href="https://voiceofhealthcare.org/updates/KRIYA-MEDICAL-TECHNOLOGIES-UNVEILS-INDIA%E2%80%99S-FIRST-STATE-OF-THE-ART-ICHOR-MEDICAL-MOLDING-SYSTEM-AT-SIPCOT-MEDICAL-DEVICES-PARK,-TAMIL-NADU-~gmZ76zj7yGhhX7qYvEZck" target="_blank">
-                                                                            <img src="assets/1.jpg" class="majorImg" width="219" height="auto"></a>
+                                                                            <img src="1.jpg" class="majorImg" width="219" height="auto"></a>
                                                                     </div>
                                                                 </div>
                                                             </td>
@@ -478,7 +478,7 @@
                                                                     <!-- <div class="alignment" align="center" style="line-height:10px"> -->
                                                                     <div class="fullWidth" style="max-width: 219px;">
                                                                         <a href="https://voiceofhealthcare.org/updates/KRIYA-MEDICAL-TECHNOLOGIES:-INNOVATING-FOR-A-HEALTHIER-WORLD~VGZ0BCh0K0xGnqJ15snNo" target="_blank">
-                                                                            <img src="assets/2.png" class="majorImg" style="" width="219" height="auto"></a>
+                                                                            <img src="2.png" class="majorImg" style="" width="219" height="auto"></a>
                                                                     </div>
                                                                 </div>
                                                             </td>
@@ -678,7 +678,7 @@
                                                                     <!-- <div class="alignment" align="center" style="line-height:10px"> -->
                                                                     <div class="fullWidth" style="max-width: auto;">
                                                                         <a href="https://voiceofhealthcare.org/updates/CHALLENGING-THE-NORM:-A-LEADERSHIP-JOURNEY-WITH-ANU-MOTURI,-FOUNDER-&amp;-CEO-OF-KRIYA-MEDICAL-TECHNOLOGIES~GYgu6fhMq-dR5tZpl5Ce2" target="_blank">
-                                                                            <img src="assets/3.png" class="" style="width: 100%; height: auto;" width="" height="auto"></a>
+                                                                            <img src="3.png" class="" style="width: 100%; height: auto;" width="" height="auto"></a>
                                                                     </div>
                                                                 </div>
                                                             </td>
@@ -1151,7 +1151,7 @@
                                                                 <table class="icons-outer" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; display: inline-table;">
                                                                     <tbody><tr>
                                                                         <td style="vertical-align: middle; text-align: center; padding-top: 10px; padding-bottom: 10px; padding-left: 10px; padding-right: 10px;">
-                                                                            <img class="icon" src="assets/4.png" height="auto" width="49" align="center" style="display: block; width: 100%; height: auto; margin: 0 auto; border: 0;">
+                                                                            <img class="icon" src="4.png" height="auto" width="49" align="center" style="display: block; width: 100%; height: auto; margin: 0 auto; border: 0;">
                                                                         </td>
                                                                     </tr>
                                                                 </tbody></table>
@@ -1208,7 +1208,7 @@
                                                                 <table class="icons-outer" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; display: inline-table;">
                                                                     <tbody><tr>
                                                                         <td style="vertical-align: middle; text-align: center; padding-top: 10px; padding-bottom: 10px; padding-left: 10px; padding-right: 10px;">
-                                                                            <img class="icon" src="assets/5.jpg" height="auto" width="51" align="center" style="display: block; width: 100%; height: auto; margin: 0 auto; border: 0;">
+                                                                            <img class="icon" src="5.jpg" height="auto" width="51" align="center" style="display: block; width: 100%; height: auto; margin: 0 auto; border: 0;">
                                                                         </td>
                                                                     </tr>
                                                                 </tbody></table>
